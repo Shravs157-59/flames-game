@@ -30,6 +30,8 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 ![FLAMES Game Screenshot](screenshot.png)
 
 Or watch the gameplay demo:
+[Watch the demo video](demo.mp4)
+
 
 <video width="400" controls>
   <source src="demo.mp4" type="video/mp4">
