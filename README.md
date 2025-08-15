@@ -62,7 +62,11 @@ Enjoy! 🎉
 - JavaScript  
 
 ---
+## 🌐 How to Run Locally
 
+1. Clone the repository:  
+```bash
+git clone https://github.com/Shravs157-59/flames-game.git
 ## 📝 License
 
 This project is open source and free to use.
