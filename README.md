@@ -16,4 +16,5 @@ Built with **HTML, CSS, and JavaScript**.
 - `script.js` – Game logic
 
 ## 🚀 Play Online
-
+After uploading this to GitHub, enable **GitHub Pages** in the repository settings and your game will be available at:https://Shravs157-59S.github.io/flames-game/
+Enjoy! 🎉
