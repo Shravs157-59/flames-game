@@ -49,7 +49,7 @@ You can host your game on GitHub Pages:
 2. Select the **main branch** and **root folder**.  
 3. Your game will be available at:
 
-[https://shravs157-59.github.io/flames-game/](https://shravs157-59.github.io/flames-game/)
+https://github.com/Shravs157-59/flames-game
 
 Enjoy! 🎉
 
