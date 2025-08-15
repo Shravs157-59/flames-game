@@ -31,6 +31,7 @@ Built with **HTML**, **CSS**, and **JavaScript**.
 
 Or watch the gameplay demo:
 [Watch the demo video](demo.mp4)
+![FLAMES Game Demo](demo.gif)
 
 
 <video width="400" controls>
